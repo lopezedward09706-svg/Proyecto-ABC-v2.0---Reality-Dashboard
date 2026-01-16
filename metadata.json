@@ -1,0 +1,7 @@
+{
+  "name": "Proyecto ABC v2.0 - Reality Dashboard",
+  "description": "A high-fidelity scientific simulation of discrete geometry, string tension, and quantum interactions guided by a multi-agent AI architecture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
